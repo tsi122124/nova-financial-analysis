@@ -1,0 +1,26 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning & Topic Modeling
+scikit-learn
+
+# NLP & Sentiment Analysis
+nltk
+textblob
+vaderSentiment
+
+# Financial & Stock Market Libraries 
+yfinance
+pynance
+TA-Lib
+
+# Notebook & Testing Environment
+jupyter
+notebook
+pytest
