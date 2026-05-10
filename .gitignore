@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .env
+data/newsData/
+data/yfinance_data/
+*.csv
