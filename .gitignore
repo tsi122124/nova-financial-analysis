@@ -4,4 +4,5 @@ __pycache__/
 *.pyc
 .env
 data/newsData/
+data/yfinance_data/
 *.csv
